@@ -24,7 +24,7 @@ namespace DemoMvcApplication.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your quintessential contact page.";
+            ViewBag.Message = "Your quintessential contact page. Test";
 
             return View();
         }
