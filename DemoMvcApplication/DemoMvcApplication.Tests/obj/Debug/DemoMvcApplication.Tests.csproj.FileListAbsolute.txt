@@ -1,0 +1,8 @@
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\bin\Debug\DemoMvcApplication.Tests.dll.config
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\bin\Debug\DemoMvcApplication.Tests.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\bin\Debug\DemoMvcApplication.Tests.pdb
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\bin\Debug\DemoMvcApplication.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\bin\Debug\DemoMvcApplication.pdb
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\obj\Debug\DemoMvcApplication.Tests.csprojResolveAssemblyReference.cache
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\obj\Debug\DemoMvcApplication.Tests.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication.Tests\obj\Debug\DemoMvcApplication.Tests.pdb

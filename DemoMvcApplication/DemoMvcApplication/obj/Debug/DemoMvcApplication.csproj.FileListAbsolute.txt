@@ -1,0 +1,16 @@
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\DemoMvcApplication.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\DemoMvcApplication.pdb
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\EntityFramework.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\Microsoft.Web.Optimization.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\System.Web.Helpers.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\System.Web.Mvc.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\System.Web.Providers.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\System.Web.Razor.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\System.Web.WebPages.Deployment.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\System.Web.WebPages.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\System.Web.WebPages.Razor.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\bin\EntityFramework.xml
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\obj\Debug\DemoMvcApplication.csprojResolveAssemblyReference.cache
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\obj\Debug\DemoMvcApplication.dll
+F:\Git Projects\DemoRepository\DemoMvcApplication\DemoMvcApplication\obj\Debug\DemoMvcApplication.pdb
